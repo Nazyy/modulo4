@@ -1,0 +1,17 @@
+
+{
+  "name": "vendor/meta",
+  "description": "proyecto para tdd",
+  "autoload": {
+    "psr-4": {
+      "Jaz\\session\\": "src/"
+
+    }
+  },
+  "authors": [
+    {
+      "name": "BlueLock-jaz",
+      "email": "hassent54@gmail.com"
+    }
+  ]
+}
